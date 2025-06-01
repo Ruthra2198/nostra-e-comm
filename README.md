@@ -4,7 +4,7 @@ Nostra is a simple, responsive e-commerce website built using HTML, CSS, and Jav
 
 🌐 Live Demo
 
-[Insert your live demo link here if hosted, e.g. GitHub Pages or Netlify]
+https://ruthra2198.github.io/nostra-e-comm/
 
 📁 Features
 
